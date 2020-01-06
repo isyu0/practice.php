@@ -21,7 +21,7 @@ echo "\n";
 
 
 
-//課題3 要素をすべてかけた結果を返す関数
+//課題3 要素をすべてかけた結果を返す関数(修正)
 function kakeru($arr){
     
  $total = 1;
@@ -36,7 +36,7 @@ echo kakeru(array(1,3,5,7,9,));
 echo "\n";
 echo "\n";
 
-//課題4 配列の中で一番大きい値を返す max_array という関数
+//課題4 配列の中で一番大きい値を返す max_array という関数（修正）
 function max_array($arr){
 
 $max_number = $arr[0];
